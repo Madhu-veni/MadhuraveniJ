@@ -1,6 +1,4 @@
-Sure, Madhu! Here's a **clean and professional text layout** for your GitHub project (like your **Azure Hands-On Activities** example). You can use this format for **any technical project**:
 
----
 
 # 📱 **Alzheimer Healthcare App**
 
@@ -74,7 +72,7 @@ The following screenshots showcase app functionalities:
 
 ## 📅 **Development Timeline**
 
-**April – June 2025**
+**Nov 2024 – April 2025**
 All features were developed and tested during this period as part of a hands-on learning project in Flutter mobile development.
 
 ---
